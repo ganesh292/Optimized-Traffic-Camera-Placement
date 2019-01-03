@@ -7,7 +7,6 @@ The Repository consists of three parts:
       Take as input a series of commands that describe streets.
       Use that input to construct a particular kind of undirected graph.
       Write the code in Python (Version 2.7.x).
-
       Sample Input:
       The  input  comprises  lines  each  of  which  speci es  a  command.   There  are  4  kinds  of  commands (1) add a street,  (2)         change a street,  (3) remove a street,  and,  (4) generate a graph.  Here is an example of how your program should work.                 Visualizing this example using the Cartesian coordinate system may help you understand what's going on.
       a "Weber Street" (2,-1) (2,2) (5,5) (5,6) (3,8)
