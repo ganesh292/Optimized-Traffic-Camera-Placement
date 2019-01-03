@@ -7,10 +7,12 @@ We will solve a particular kind of optimization problem, called the Vertex Cover
 The idea is for the police to be able to minimize the number of cameras they need to install, and still be as effective as possible with their monitoring.
 
 For this assignment, you need to:
-a)Take as input a series of commands that describe streets.
-b)Use that input to construct a particular kind of undirected graph.
+i)Take as input a series of commands that describe streets.
+ii)Use that input to construct a particular kind of undirected graph.
 
 To Describe the the Project briefly it is Divided into 4 Assignments and a Analysis Report.
+
+
 a) Assignment1 Deals with gathering GPS Coordinate Input of the Streets and Calculating the Intersections (Using Vertices and Edges Concept of an Undirected Graph)
    (Python)
 
